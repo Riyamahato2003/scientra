@@ -22,7 +22,7 @@ class NoRedirect(HTTPRedirectHandler):
 
 
 def get_json(path: str, params: dict[str, str] | None = None) -> dict:
-    if path != "/works" and not re.fullmatch(r"/institutions/I[0-9]+", path):
+    if path not in {"/works", "/institutions"} and not re.fullmatch(r"/institutions/I[0-9]+", path):
         raise ValueError("Unsupported OpenAlex path")
     url = BASE_URL + path
     if params:

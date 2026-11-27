@@ -1,10 +1,10 @@
 # CP2 source feasibility — 28 November 2026
 
-Scope: thin-film deposition, IIT Bombay, IIT Delhi and IIT Roorkee. Not a lead database, buying-intent assessment, or nationwide coverage claim.
+Original smoke-test scope: thin-film deposition, IIT Bombay, IIT Delhi and IIT Roorkee. Owner expanded collection to the [87-institution roster](institution-coverage.md). Not a lead database, buying-intent assessment, or nationwide coverage claim.
 
 | Source | Observed access | Reuse and decision |
 |---|---|---|
-| OpenAlex | Public institution and work metadata pages reviewed. API docs support keyless first page; free key increases budget. Direct API attempt from development environment could not resolve host; live CI probe pending. | CC0 metadata; integrate bounded API only, no article full text. |
+| OpenAlex | Public institution and work metadata pages reviewed. API docs support keyless first page; free key increases budget. Direct API attempt from development environment could not resolve host; live CI probe passed (run 46051381123). | CC0 metadata; integrate bounded API only, no article full text. |
 | ROR | Official open API and data dump documented. | CC0; supporting source evaluated, adapter deferred. |
 | I-STEM | Public equipment record and policy pages accessible. | Terms allow accurate, attributed reproduction in relevant contexts but exclude third-party rights; privacy policy says ownership remains with providers. No commercial bulk permission established. Review only, no adapter. |
 | ANRF | Public schemes and proposal portal accessible. | No private proposals or authenticated data. Grant database permissions not established. |

@@ -1,0 +1,1017 @@
+[
+  {
+    "key": "iit-kharagpur",
+    "category": "IIT",
+    "name": "IIT Kharagpur",
+    "state": "West Bengal",
+    "query": "Indian Institute of Technology Kharagpur",
+    "aliases": [
+      "IIT Kharagpur",
+      "Indian Institute of Technology Kharagpur"
+    ]
+  },
+  {
+    "key": "iit-bombay",
+    "category": "IIT",
+    "name": "IIT Bombay",
+    "state": "Maharashtra",
+    "query": "Indian Institute of Technology Bombay",
+    "aliases": [
+      "IIT Bombay",
+      "Indian Institute of Technology Bombay",
+      "Indian Institute of Technology Mumbai"
+    ]
+  },
+  {
+    "key": "iit-kanpur",
+    "category": "IIT",
+    "name": "IIT Kanpur",
+    "state": "Uttar Pradesh",
+    "query": "Indian Institute of Technology Kanpur",
+    "aliases": [
+      "IIT Kanpur",
+      "Indian Institute of Technology Kanpur"
+    ]
+  },
+  {
+    "key": "iit-madras",
+    "category": "IIT",
+    "name": "IIT Madras",
+    "state": "Tamil Nadu",
+    "query": "Indian Institute of Technology Madras",
+    "aliases": [
+      "IIT Madras",
+      "Indian Institute of Technology Madras",
+      "Indian Institute of Technology Chennai"
+    ]
+  },
+  {
+    "key": "iit-delhi",
+    "category": "IIT",
+    "name": "IIT Delhi",
+    "state": "Delhi",
+    "query": "Indian Institute of Technology Delhi",
+    "aliases": [
+      "IIT Delhi",
+      "Indian Institute of Technology Delhi"
+    ]
+  },
+  {
+    "key": "iit-guwahati",
+    "category": "IIT",
+    "name": "IIT Guwahati",
+    "state": "Assam",
+    "query": "Indian Institute of Technology Guwahati",
+    "aliases": [
+      "IIT Guwahati",
+      "Indian Institute of Technology Guwahati"
+    ]
+  },
+  {
+    "key": "iit-roorkee",
+    "category": "IIT",
+    "name": "IIT Roorkee",
+    "state": "Uttarakhand",
+    "query": "Indian Institute of Technology Roorkee",
+    "aliases": [
+      "IIT Roorkee",
+      "Indian Institute of Technology Roorkee"
+    ]
+  },
+  {
+    "key": "iit-bhubaneswar",
+    "category": "IIT",
+    "name": "IIT Bhubaneswar",
+    "state": "Odisha",
+    "query": "Indian Institute of Technology Bhubaneswar",
+    "aliases": [
+      "IIT Bhubaneswar",
+      "Indian Institute of Technology Bhubaneswar"
+    ]
+  },
+  {
+    "key": "iit-gandhinagar",
+    "category": "IIT",
+    "name": "IIT Gandhinagar",
+    "state": "Gujarat",
+    "query": "Indian Institute of Technology Gandhinagar",
+    "aliases": [
+      "IIT Gandhinagar",
+      "Indian Institute of Technology Gandhinagar"
+    ]
+  },
+  {
+    "key": "iit-hyderabad",
+    "category": "IIT",
+    "name": "IIT Hyderabad",
+    "state": "Telangana",
+    "query": "Indian Institute of Technology Hyderabad",
+    "aliases": [
+      "IIT Hyderabad",
+      "Indian Institute of Technology Hyderabad"
+    ]
+  },
+  {
+    "key": "iit-jodhpur",
+    "category": "IIT",
+    "name": "IIT Jodhpur",
+    "state": "Rajasthan",
+    "query": "Indian Institute of Technology Jodhpur",
+    "aliases": [
+      "IIT Jodhpur",
+      "Indian Institute of Technology Jodhpur"
+    ]
+  },
+  {
+    "key": "iit-patna",
+    "category": "IIT",
+    "name": "IIT Patna",
+    "state": "Bihar",
+    "query": "Indian Institute of Technology Patna",
+    "aliases": [
+      "IIT Patna",
+      "Indian Institute of Technology Patna"
+    ]
+  },
+  {
+    "key": "iit-ropar",
+    "category": "IIT",
+    "name": "IIT Ropar",
+    "state": "Punjab",
+    "query": "Indian Institute of Technology Ropar",
+    "aliases": [
+      "IIT Ropar",
+      "Indian Institute of Technology Ropar",
+      "Indian Institute of Technology Rupnagar"
+    ]
+  },
+  {
+    "key": "iit-indore",
+    "category": "IIT",
+    "name": "IIT Indore",
+    "state": "Madhya Pradesh",
+    "query": "Indian Institute of Technology Indore",
+    "aliases": [
+      "IIT Indore",
+      "Indian Institute of Technology Indore"
+    ]
+  },
+  {
+    "key": "iit-mandi",
+    "category": "IIT",
+    "name": "IIT Mandi",
+    "state": "Himachal Pradesh",
+    "query": "Indian Institute of Technology Mandi",
+    "aliases": [
+      "IIT Mandi",
+      "Indian Institute of Technology Mandi"
+    ]
+  },
+  {
+    "key": "iit-bhu-varanasi",
+    "category": "IIT",
+    "name": "IIT BHU Varanasi",
+    "state": "Uttar Pradesh",
+    "query": "Indian Institute of Technology BHU Varanasi",
+    "aliases": [
+      "IIT BHU Varanasi",
+      "Indian Institute of Technology BHU Varanasi",
+      "Indian Institute of Technology (BHU) Varanasi",
+      "Indian Institute of Technology Banaras Hindu University",
+      "Indian Institute of Technology Varanasi",
+      "IIT (BHU)"
+    ]
+  },
+  {
+    "key": "iit-palakkad",
+    "category": "IIT",
+    "name": "IIT Palakkad",
+    "state": "Kerala",
+    "query": "Indian Institute of Technology Palakkad",
+    "aliases": [
+      "IIT Palakkad",
+      "Indian Institute of Technology Palakkad"
+    ]
+  },
+  {
+    "key": "iit-tirupati",
+    "category": "IIT",
+    "name": "IIT Tirupati",
+    "state": "Andhra Pradesh",
+    "query": "Indian Institute of Technology Tirupati",
+    "aliases": [
+      "IIT Tirupati",
+      "Indian Institute of Technology Tirupati"
+    ]
+  },
+  {
+    "key": "iit-ism-dhanbad",
+    "category": "IIT",
+    "name": "IIT ISM Dhanbad",
+    "state": "Jharkhand",
+    "query": "Indian Institute of Technology ISM Dhanbad",
+    "aliases": [
+      "IIT ISM Dhanbad",
+      "Indian Institute of Technology ISM Dhanbad",
+      "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+      "Indian Institute of Technology Dhanbad",
+      "Indian School of Mines Dhanbad",
+      "IIT (ISM)"
+    ]
+  },
+  {
+    "key": "iit-bhilai",
+    "category": "IIT",
+    "name": "IIT Bhilai",
+    "state": "Chhattisgarh",
+    "query": "Indian Institute of Technology Bhilai",
+    "aliases": [
+      "IIT Bhilai",
+      "Indian Institute of Technology Bhilai"
+    ]
+  },
+  {
+    "key": "iit-dharwad",
+    "category": "IIT",
+    "name": "IIT Dharwad",
+    "state": "Karnataka",
+    "query": "Indian Institute of Technology Dharwad",
+    "aliases": [
+      "IIT Dharwad",
+      "Indian Institute of Technology Dharwad"
+    ]
+  },
+  {
+    "key": "iit-jammu",
+    "category": "IIT",
+    "name": "IIT Jammu",
+    "state": "Jammu & Kashmir",
+    "query": "Indian Institute of Technology Jammu",
+    "aliases": [
+      "IIT Jammu",
+      "Indian Institute of Technology Jammu"
+    ]
+  },
+  {
+    "key": "iit-goa",
+    "category": "IIT",
+    "name": "IIT Goa",
+    "state": "Goa",
+    "query": "Indian Institute of Technology Goa",
+    "aliases": [
+      "IIT Goa",
+      "Indian Institute of Technology Goa"
+    ]
+  },
+  {
+    "key": "nit-tiruchirappalli",
+    "category": "NIT",
+    "name": "NIT Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "query": "National Institute of Technology Tiruchirappalli",
+    "aliases": [
+      "NIT Tiruchirappalli",
+      "National Institute of Technology Tiruchirappalli",
+      "National Institute of Technology Trichy",
+      "NIT Trichy"
+    ]
+  },
+  {
+    "key": "nit-karnataka-surathkal",
+    "category": "NIT",
+    "name": "NIT Karnataka Surathkal",
+    "state": "Karnataka",
+    "query": "National Institute of Technology Karnataka Surathkal",
+    "aliases": [
+      "NIT Karnataka Surathkal",
+      "National Institute of Technology Karnataka Surathkal",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Surathkal",
+      "NITK Surathkal"
+    ]
+  },
+  {
+    "key": "nit-rourkela",
+    "category": "NIT",
+    "name": "NIT Rourkela",
+    "state": "Odisha",
+    "query": "National Institute of Technology Rourkela",
+    "aliases": [
+      "NIT Rourkela",
+      "National Institute of Technology Rourkela"
+    ]
+  },
+  {
+    "key": "nit-warangal",
+    "category": "NIT",
+    "name": "NIT Warangal",
+    "state": "Telangana",
+    "query": "National Institute of Technology Warangal",
+    "aliases": [
+      "NIT Warangal",
+      "National Institute of Technology Warangal"
+    ]
+  },
+  {
+    "key": "nit-calicut",
+    "category": "NIT",
+    "name": "NIT Calicut",
+    "state": "Kerala",
+    "query": "National Institute of Technology Calicut",
+    "aliases": [
+      "NIT Calicut",
+      "National Institute of Technology Calicut",
+      "National Institute of Technology Kozhikode"
+    ]
+  },
+  {
+    "key": "nit-nagpur",
+    "category": "NIT",
+    "name": "NIT Nagpur",
+    "state": "Maharashtra",
+    "query": "Visvesvaraya National Institute of Technology",
+    "aliases": [
+      "NIT Nagpur",
+      "National Institute of Technology Nagpur",
+      "Visvesvaraya National Institute of Technology",
+      "Visvesvaraya National Institute of Technology Nagpur",
+      "VNIT Nagpur"
+    ]
+  },
+  {
+    "key": "nit-jaipur",
+    "category": "NIT",
+    "name": "NIT Jaipur",
+    "state": "Rajasthan",
+    "query": "Malaviya National Institute of Technology",
+    "aliases": [
+      "NIT Jaipur",
+      "National Institute of Technology Jaipur",
+      "Malaviya National Institute of Technology",
+      "Malaviya National Institute of Technology Jaipur",
+      "MNIT Jaipur"
+    ]
+  },
+  {
+    "key": "nit-allahabad",
+    "category": "NIT",
+    "name": "NIT Allahabad",
+    "state": "Uttar Pradesh",
+    "query": "Motilal Nehru National Institute of Technology",
+    "aliases": [
+      "NIT Allahabad",
+      "National Institute of Technology Allahabad",
+      "Motilal Nehru National Institute of Technology",
+      "Motilal Nehru National Institute of Technology Allahabad",
+      "MNNIT Allahabad"
+    ]
+  },
+  {
+    "key": "nit-bhopal",
+    "category": "NIT",
+    "name": "NIT Bhopal",
+    "state": "Madhya Pradesh",
+    "query": "Maulana Azad National Institute of Technology",
+    "aliases": [
+      "NIT Bhopal",
+      "National Institute of Technology Bhopal",
+      "Maulana Azad National Institute of Technology",
+      "Maulana Azad National Institute of Technology Bhopal",
+      "MANIT Bhopal"
+    ]
+  },
+  {
+    "key": "nit-surat",
+    "category": "NIT",
+    "name": "NIT Surat",
+    "state": "Gujarat",
+    "query": "Sardar Vallabhbhai National Institute of Technology",
+    "aliases": [
+      "NIT Surat",
+      "National Institute of Technology Surat",
+      "Sardar Vallabhbhai National Institute of Technology",
+      "Sardar Vallabhbhai National Institute of Technology Surat",
+      "SVNIT Surat"
+    ]
+  },
+  {
+    "key": "nit-jalandhar",
+    "category": "NIT",
+    "name": "NIT Jalandhar",
+    "state": "Punjab",
+    "query": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "aliases": [
+      "NIT Jalandhar",
+      "National Institute of Technology Jalandhar",
+      "Dr B R Ambedkar National Institute of Technology Jalandhar",
+      "Dr B R Ambedkar National Institute of Technology"
+    ]
+  },
+  {
+    "key": "nit-kurukshetra",
+    "category": "NIT",
+    "name": "NIT Kurukshetra",
+    "state": "Haryana",
+    "query": "National Institute of Technology Kurukshetra",
+    "aliases": [
+      "NIT Kurukshetra",
+      "National Institute of Technology Kurukshetra"
+    ]
+  },
+  {
+    "key": "nit-durgapur",
+    "category": "NIT",
+    "name": "NIT Durgapur",
+    "state": "West Bengal",
+    "query": "National Institute of Technology Durgapur",
+    "aliases": [
+      "NIT Durgapur",
+      "National Institute of Technology Durgapur"
+    ]
+  },
+  {
+    "key": "nit-silchar",
+    "category": "NIT",
+    "name": "NIT Silchar",
+    "state": "Assam",
+    "query": "National Institute of Technology Silchar",
+    "aliases": [
+      "NIT Silchar",
+      "National Institute of Technology Silchar"
+    ]
+  },
+  {
+    "key": "nit-hamirpur",
+    "category": "NIT",
+    "name": "NIT Hamirpur",
+    "state": "Himachal Pradesh",
+    "query": "National Institute of Technology Hamirpur",
+    "aliases": [
+      "NIT Hamirpur",
+      "National Institute of Technology Hamirpur"
+    ]
+  },
+  {
+    "key": "nit-jamshedpur",
+    "category": "NIT",
+    "name": "NIT Jamshedpur",
+    "state": "Jharkhand",
+    "query": "National Institute of Technology Jamshedpur",
+    "aliases": [
+      "NIT Jamshedpur",
+      "National Institute of Technology Jamshedpur"
+    ]
+  },
+  {
+    "key": "nit-patna",
+    "category": "NIT",
+    "name": "NIT Patna",
+    "state": "Bihar",
+    "query": "National Institute of Technology Patna",
+    "aliases": [
+      "NIT Patna",
+      "National Institute of Technology Patna"
+    ]
+  },
+  {
+    "key": "nit-raipur",
+    "category": "NIT",
+    "name": "NIT Raipur",
+    "state": "Chhattisgarh",
+    "query": "National Institute of Technology Raipur",
+    "aliases": [
+      "NIT Raipur",
+      "National Institute of Technology Raipur"
+    ]
+  },
+  {
+    "key": "nit-srinagar",
+    "category": "NIT",
+    "name": "NIT Srinagar",
+    "state": "Jammu & Kashmir",
+    "query": "National Institute of Technology Srinagar",
+    "aliases": [
+      "NIT Srinagar",
+      "National Institute of Technology Srinagar"
+    ]
+  },
+  {
+    "key": "nit-agartala",
+    "category": "NIT",
+    "name": "NIT Agartala",
+    "state": "Tripura",
+    "query": "National Institute of Technology Agartala",
+    "aliases": [
+      "NIT Agartala",
+      "National Institute of Technology Agartala"
+    ]
+  },
+  {
+    "key": "nit-delhi",
+    "category": "NIT",
+    "name": "NIT Delhi",
+    "state": "Delhi",
+    "query": "National Institute of Technology Delhi",
+    "aliases": [
+      "NIT Delhi",
+      "National Institute of Technology Delhi"
+    ]
+  },
+  {
+    "key": "nit-goa",
+    "category": "NIT",
+    "name": "NIT Goa",
+    "state": "Goa",
+    "query": "National Institute of Technology Goa",
+    "aliases": [
+      "NIT Goa",
+      "National Institute of Technology Goa"
+    ]
+  },
+  {
+    "key": "nit-puducherry",
+    "category": "NIT",
+    "name": "NIT Puducherry",
+    "state": "Puducherry",
+    "query": "National Institute of Technology Puducherry",
+    "aliases": [
+      "NIT Puducherry",
+      "National Institute of Technology Puducherry",
+      "National Institute of Technology Pondicherry"
+    ]
+  },
+  {
+    "key": "nit-uttarakhand",
+    "category": "NIT",
+    "name": "NIT Uttarakhand",
+    "state": "Uttarakhand",
+    "query": "National Institute of Technology Uttarakhand",
+    "aliases": [
+      "NIT Uttarakhand",
+      "National Institute of Technology Uttarakhand"
+    ]
+  },
+  {
+    "key": "nit-meghalaya",
+    "category": "NIT",
+    "name": "NIT Meghalaya",
+    "state": "Meghalaya",
+    "query": "National Institute of Technology Meghalaya",
+    "aliases": [
+      "NIT Meghalaya",
+      "National Institute of Technology Meghalaya"
+    ]
+  },
+  {
+    "key": "nit-manipur",
+    "category": "NIT",
+    "name": "NIT Manipur",
+    "state": "Manipur",
+    "query": "National Institute of Technology Manipur",
+    "aliases": [
+      "NIT Manipur",
+      "National Institute of Technology Manipur"
+    ]
+  },
+  {
+    "key": "nit-mizoram",
+    "category": "NIT",
+    "name": "NIT Mizoram",
+    "state": "Mizoram",
+    "query": "National Institute of Technology Mizoram",
+    "aliases": [
+      "NIT Mizoram",
+      "National Institute of Technology Mizoram"
+    ]
+  },
+  {
+    "key": "nit-nagaland",
+    "category": "NIT",
+    "name": "NIT Nagaland",
+    "state": "Nagaland",
+    "query": "National Institute of Technology Nagaland",
+    "aliases": [
+      "NIT Nagaland",
+      "National Institute of Technology Nagaland"
+    ]
+  },
+  {
+    "key": "nit-arunachal-pradesh",
+    "category": "NIT",
+    "name": "NIT Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "query": "National Institute of Technology Arunachal Pradesh",
+    "aliases": [
+      "NIT Arunachal Pradesh",
+      "National Institute of Technology Arunachal Pradesh"
+    ]
+  },
+  {
+    "key": "nit-sikkim",
+    "category": "NIT",
+    "name": "NIT Sikkim",
+    "state": "Sikkim",
+    "query": "National Institute of Technology Sikkim",
+    "aliases": [
+      "NIT Sikkim",
+      "National Institute of Technology Sikkim"
+    ]
+  },
+  {
+    "key": "nit-andhra-pradesh",
+    "category": "NIT",
+    "name": "NIT Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "query": "National Institute of Technology Andhra Pradesh",
+    "aliases": [
+      "NIT Andhra Pradesh",
+      "National Institute of Technology Andhra Pradesh"
+    ]
+  },
+  {
+    "key": "iiit-gwalior",
+    "category": "IIIT",
+    "name": "IIIT Gwalior",
+    "state": "Madhya Pradesh",
+    "query": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+    "aliases": [
+      "IIIT Gwalior",
+      "Indian Institute of Information Technology Gwalior",
+      "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+      "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior",
+      "ABV-IIITM Gwalior"
+    ]
+  },
+  {
+    "key": "iiit-allahabad",
+    "category": "IIIT",
+    "name": "IIIT Allahabad",
+    "state": "Uttar Pradesh",
+    "query": "Indian Institute of Information Technology Allahabad",
+    "aliases": [
+      "IIIT Allahabad",
+      "Indian Institute of Information Technology Allahabad",
+      "Indian Institute of Information Technology Prayagraj"
+    ]
+  },
+  {
+    "key": "iiit-jabalpur",
+    "category": "IIIT",
+    "name": "IIIT Jabalpur",
+    "state": "Madhya Pradesh",
+    "query": "Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+    "aliases": [
+      "IIIT Jabalpur",
+      "Indian Institute of Information Technology Jabalpur",
+      "Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+      "Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+      "PDPM IIITDM Jabalpur",
+      "IIITDM Jabalpur"
+    ]
+  },
+  {
+    "key": "iiit-kancheepuram",
+    "category": "IIIT",
+    "name": "IIIT Kancheepuram",
+    "state": "Tamil Nadu",
+    "query": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "aliases": [
+      "IIIT Kancheepuram",
+      "Indian Institute of Information Technology Kancheepuram",
+      "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+      "Indian Institute of Information Technology Design and Manufacturing Kanchipuram",
+      "IIITDM Kancheepuram"
+    ]
+  },
+  {
+    "key": "iiit-kurnool",
+    "category": "IIIT",
+    "name": "IIIT Kurnool",
+    "state": "Andhra Pradesh",
+    "query": "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+    "aliases": [
+      "IIIT Kurnool",
+      "Indian Institute of Information Technology Kurnool",
+      "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+      "IIITDM Kurnool"
+    ]
+  },
+  {
+    "key": "iiit-guwahati",
+    "category": "IIIT",
+    "name": "IIIT Guwahati",
+    "state": "Assam",
+    "query": "Indian Institute of Information Technology Guwahati",
+    "aliases": [
+      "IIIT Guwahati",
+      "Indian Institute of Information Technology Guwahati"
+    ]
+  },
+  {
+    "key": "iiit-sri-city",
+    "category": "IIIT",
+    "name": "IIIT Sri City",
+    "state": "Andhra Pradesh",
+    "query": "Indian Institute of Information Technology Sri City",
+    "aliases": [
+      "IIIT Sri City",
+      "Indian Institute of Information Technology Sri City",
+      "Indian Institute of Information Technology Sri City Chittoor"
+    ]
+  },
+  {
+    "key": "iiit-vadodara",
+    "category": "IIIT",
+    "name": "IIIT Vadodara",
+    "state": "Gujarat",
+    "query": "Indian Institute of Information Technology Vadodara",
+    "aliases": [
+      "IIIT Vadodara",
+      "Indian Institute of Information Technology Vadodara"
+    ]
+  },
+  {
+    "key": "iiit-kota",
+    "category": "IIIT",
+    "name": "IIIT Kota",
+    "state": "Rajasthan",
+    "query": "Indian Institute of Information Technology Kota",
+    "aliases": [
+      "IIIT Kota",
+      "Indian Institute of Information Technology Kota"
+    ]
+  },
+  {
+    "key": "iiit-tiruchirappalli",
+    "category": "IIIT",
+    "name": "IIIT Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "query": "Indian Institute of Information Technology Tiruchirappalli",
+    "aliases": [
+      "IIIT Tiruchirappalli",
+      "Indian Institute of Information Technology Tiruchirappalli",
+      "Indian Institute of Information Technology Trichy"
+    ]
+  },
+  {
+    "key": "iiit-sonipat",
+    "category": "IIIT",
+    "name": "IIIT Sonipat",
+    "state": "Haryana",
+    "query": "Indian Institute of Information Technology Sonipat",
+    "aliases": [
+      "IIIT Sonipat",
+      "Indian Institute of Information Technology Sonipat",
+      "Indian Institute of Information Technology Sonepat"
+    ]
+  },
+  {
+    "key": "iiit-una",
+    "category": "IIIT",
+    "name": "IIIT Una",
+    "state": "Himachal Pradesh",
+    "query": "Indian Institute of Information Technology Una",
+    "aliases": [
+      "IIIT Una",
+      "Indian Institute of Information Technology Una"
+    ]
+  },
+  {
+    "key": "iiit-kalyani",
+    "category": "IIIT",
+    "name": "IIIT Kalyani",
+    "state": "West Bengal",
+    "query": "Indian Institute of Information Technology Kalyani",
+    "aliases": [
+      "IIIT Kalyani",
+      "Indian Institute of Information Technology Kalyani"
+    ]
+  },
+  {
+    "key": "iiit-lucknow",
+    "category": "IIIT",
+    "name": "IIIT Lucknow",
+    "state": "Uttar Pradesh",
+    "query": "Indian Institute of Information Technology Lucknow",
+    "aliases": [
+      "IIIT Lucknow",
+      "Indian Institute of Information Technology Lucknow"
+    ]
+  },
+  {
+    "key": "iiit-dharwad",
+    "category": "IIIT",
+    "name": "IIIT Dharwad",
+    "state": "Karnataka",
+    "query": "Indian Institute of Information Technology Dharwad",
+    "aliases": [
+      "IIIT Dharwad",
+      "Indian Institute of Information Technology Dharwad"
+    ]
+  },
+  {
+    "key": "iiit-kottayam",
+    "category": "IIIT",
+    "name": "IIIT Kottayam",
+    "state": "Kerala",
+    "query": "Indian Institute of Information Technology Kottayam",
+    "aliases": [
+      "IIIT Kottayam",
+      "Indian Institute of Information Technology Kottayam"
+    ]
+  },
+  {
+    "key": "iiit-manipur",
+    "category": "IIIT",
+    "name": "IIIT Manipur",
+    "state": "Manipur",
+    "query": "Indian Institute of Information Technology Manipur",
+    "aliases": [
+      "IIIT Manipur",
+      "Indian Institute of Information Technology Manipur",
+      "Indian Institute of Information Technology Senapati Manipur"
+    ]
+  },
+  {
+    "key": "iiit-nagpur",
+    "category": "IIIT",
+    "name": "IIIT Nagpur",
+    "state": "Maharashtra",
+    "query": "Indian Institute of Information Technology Nagpur",
+    "aliases": [
+      "IIIT Nagpur",
+      "Indian Institute of Information Technology Nagpur"
+    ]
+  },
+  {
+    "key": "iiit-pune",
+    "category": "IIIT",
+    "name": "IIIT Pune",
+    "state": "Maharashtra",
+    "query": "Indian Institute of Information Technology Pune",
+    "aliases": [
+      "IIIT Pune",
+      "Indian Institute of Information Technology Pune"
+    ]
+  },
+  {
+    "key": "iiit-ranchi",
+    "category": "IIIT",
+    "name": "IIIT Ranchi",
+    "state": "Jharkhand",
+    "query": "Indian Institute of Information Technology Ranchi",
+    "aliases": [
+      "IIIT Ranchi",
+      "Indian Institute of Information Technology Ranchi"
+    ]
+  },
+  {
+    "key": "iiit-surat",
+    "category": "IIIT",
+    "name": "IIIT Surat",
+    "state": "Gujarat",
+    "query": "Indian Institute of Information Technology Surat",
+    "aliases": [
+      "IIIT Surat",
+      "Indian Institute of Information Technology Surat"
+    ]
+  },
+  {
+    "key": "iiit-bhopal",
+    "category": "IIIT",
+    "name": "IIIT Bhopal",
+    "state": "Madhya Pradesh",
+    "query": "Indian Institute of Information Technology Bhopal",
+    "aliases": [
+      "IIIT Bhopal",
+      "Indian Institute of Information Technology Bhopal"
+    ]
+  },
+  {
+    "key": "iiit-bhagalpur",
+    "category": "IIIT",
+    "name": "IIIT Bhagalpur",
+    "state": "Bihar",
+    "query": "Indian Institute of Information Technology Bhagalpur",
+    "aliases": [
+      "IIIT Bhagalpur",
+      "Indian Institute of Information Technology Bhagalpur"
+    ]
+  },
+  {
+    "key": "iiit-agartala",
+    "category": "IIIT",
+    "name": "IIIT Agartala",
+    "state": "Tripura",
+    "query": "Indian Institute of Information Technology Agartala",
+    "aliases": [
+      "IIIT Agartala",
+      "Indian Institute of Information Technology Agartala"
+    ]
+  },
+  {
+    "key": "iiit-raichur",
+    "category": "IIIT",
+    "name": "IIIT Raichur",
+    "state": "Karnataka",
+    "query": "Indian Institute of Information Technology Raichur",
+    "aliases": [
+      "IIIT Raichur",
+      "Indian Institute of Information Technology Raichur"
+    ]
+  },
+  {
+    "key": "iiser-kolkata",
+    "category": "IISER",
+    "name": "IISER Kolkata",
+    "state": "West Bengal",
+    "query": "Indian Institute of Science Education and Research Kolkata",
+    "aliases": [
+      "IISER Kolkata",
+      "Indian Institute of Science Education and Research Kolkata"
+    ]
+  },
+  {
+    "key": "iiser-pune",
+    "category": "IISER",
+    "name": "IISER Pune",
+    "state": "Maharashtra",
+    "query": "Indian Institute of Science Education and Research Pune",
+    "aliases": [
+      "IISER Pune",
+      "Indian Institute of Science Education and Research Pune"
+    ]
+  },
+  {
+    "key": "iiser-mohali",
+    "category": "IISER",
+    "name": "IISER Mohali",
+    "state": "Punjab",
+    "query": "Indian Institute of Science Education and Research Mohali",
+    "aliases": [
+      "IISER Mohali",
+      "Indian Institute of Science Education and Research Mohali"
+    ]
+  },
+  {
+    "key": "iiser-bhopal",
+    "category": "IISER",
+    "name": "IISER Bhopal",
+    "state": "Madhya Pradesh",
+    "query": "Indian Institute of Science Education and Research Bhopal",
+    "aliases": [
+      "IISER Bhopal",
+      "Indian Institute of Science Education and Research Bhopal"
+    ]
+  },
+  {
+    "key": "iiser-thiruvananthapuram",
+    "category": "IISER",
+    "name": "IISER Thiruvananthapuram",
+    "state": "Kerala",
+    "query": "Indian Institute of Science Education and Research Thiruvananthapuram",
+    "aliases": [
+      "IISER Thiruvananthapuram",
+      "Indian Institute of Science Education and Research Thiruvananthapuram",
+      "Indian Institute of Science Education and Research Trivandrum",
+      "IISER TVM"
+    ]
+  },
+  {
+    "key": "iiser-tirupati",
+    "category": "IISER",
+    "name": "IISER Tirupati",
+    "state": "Andhra Pradesh",
+    "query": "Indian Institute of Science Education and Research Tirupati",
+    "aliases": [
+      "IISER Tirupati",
+      "Indian Institute of Science Education and Research Tirupati"
+    ]
+  },
+  {
+    "key": "iiser-berhampur",
+    "category": "IISER",
+    "name": "IISER Berhampur",
+    "state": "Odisha",
+    "query": "Indian Institute of Science Education and Research Berhampur",
+    "aliases": [
+      "IISER Berhampur",
+      "Indian Institute of Science Education and Research Berhampur",
+      "Indian Institute of Science Education and Research Brahmapur"
+    ]
+  },
+  {
+    "key": "iisc-bengaluru",
+    "category": "IISc",
+    "name": "IISc Bengaluru",
+    "state": "Karnataka",
+    "query": "Indian Institute of Science",
+    "aliases": [
+      "Indian Institute of Science",
+      "Indian Institute of Science Bengaluru",
+      "Indian Institute of Science Bangalore",
+      "IISc Bengaluru",
+      "IISc Bangalore"
+    ]
+  }
+]

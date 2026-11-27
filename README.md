@@ -56,3 +56,5 @@ Do not expose this development stack publicly. Cloud hosting, Supabase Auth, pro
 ## Checkpoint 2 — scientific source ingestion
 
 See [source feasibility](docs/source-feasibility.md) and [CP2 runbook](docs/checkpoints/02-data-infrastructure.md). Apply migration 002 to existing databases before importing. Run `docker compose exec backend python -m app.ingestion seed` to populate the local database with nine real source observations. `summary` reports counts by rights, kind, and method; `live --limit 5` attempts bounded OpenAlex API collection. Institutional review records are not approved commercial data. No customer functionality added.
+
+Full institutional coverage: see [87-institution roster and collection runbook](docs/institution-coverage.md). The three-institution `live` command remains a smoke test only; the full `coverage` command is the initial population workflow.
