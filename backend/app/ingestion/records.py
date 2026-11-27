@@ -4,9 +4,9 @@ from datetime import date, datetime
 from typing import Literal
 from urllib.parse import urlsplit
 
-from pydantic import BaseModel, field_validator
 from psycopg import Connection
 from psycopg.types.json import Jsonb
+from pydantic import BaseModel, field_validator
 
 Kind = Literal["institution", "publication", "laboratory", "equipment", "procurement"]
 Method = Literal["manual_public_metadata", "openalex_api"]

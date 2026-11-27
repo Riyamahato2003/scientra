@@ -83,5 +83,7 @@ def test_real_seed_persistence_and_idempotence() -> None:
                 row = cur.fetchone()
                 assert row is not None
                 assert row[0] == 1 and row[1] == record.observed_on and row[2] is not None
-            cur.execute("SELECT count(*) FROM reusable_source_records WHERE source_id='iitb_public'")
+            cur.execute(
+                "SELECT count(*) FROM reusable_source_records WHERE source_id='iitb_public'"
+            )
             assert cur.fetchone() == (0,)
