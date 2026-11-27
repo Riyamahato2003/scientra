@@ -1,6 +1,6 @@
 # Master checkpoint tracker
 
-Baseline: [master-blueprint.md](../master-blueprint.md). Status: 0/12 owner-approved. Checkpoint 1 submitted for review only. Do not start CP2 before approval.
+Baseline: [master-blueprint.md](../master-blueprint.md). Status: 1/12 owner-approved. Checkpoint 1 passed CI and was merged on 2026-11-27. Checkpoint 2 has not started; begin only upon owner instruction.
 
 | CP | Work | Gate |
 |---|---|---|
