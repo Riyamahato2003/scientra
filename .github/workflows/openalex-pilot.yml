@@ -1,0 +1,27 @@
+name: OpenAlex live pilot
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    paths:
+      - "backend/app/ingestion/**"
+      - ".github/workflows/openalex-pilot.yml"
+      - "database/migrations/002_source_ingestion.sql"
+permissions:
+  contents: read
+jobs:
+  live-pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start database and API
+        run: docker compose up --build --wait --wait-timeout 180 db backend
+      - name: Live OpenAlex API and database import
+        run: |
+          docker compose exec -T backend python -m app.ingestion live --limit 3
+          docker compose exec -T backend python -m app.ingestion summary
+          docker compose exec -T db psql -v ON_ERROR_STOP=1 -U scientra -d scientra -c "SELECT kind, count(*) FROM source_snapshot WHERE method='openalex_api' GROUP BY kind;"
+      - name: Cleanup
+        if: always()
+        run: docker compose down

@@ -1,0 +1,150 @@
+[
+  {
+    "source_id": "openalex",
+    "kind": "institution",
+    "external_id": "I162827531",
+    "canonical_url": "https://openalex.org/institutions/I162827531",
+    "locator": "Institution heading and OpenAlex ID",
+    "payload": {
+      "name": "Indian Institute of Technology Bombay",
+      "country_code": "IN",
+      "ror": "https://ror.org/02qyf5152"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "openalex",
+    "kind": "institution",
+    "external_id": "I68891433",
+    "canonical_url": "https://openalex.org/institutions/I68891433",
+    "locator": "Institution heading and OpenAlex ID",
+    "payload": {
+      "name": "Indian Institute of Technology Delhi",
+      "country_code": "IN"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "openalex",
+    "kind": "institution",
+    "external_id": "I154851008",
+    "canonical_url": "https://openalex.org/institutions/I154851008",
+    "locator": "Institution heading and OpenAlex ID",
+    "payload": {
+      "name": "Indian Institute of Technology Roorkee",
+      "country_code": "IN"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "openalex",
+    "kind": "publication",
+    "external_id": "W4391929427",
+    "canonical_url": "https://openalex.org/works/W4391929427",
+    "locator": "Details: year, DOI, authors, institution",
+    "payload": {
+      "title": "Mg incorporation induced microstructural evolution of reactively sputtered GaN epitaxial films to Mg-doped GaN nanorods",
+      "publication_year": 2024,
+      "doi": "10.1088/1361-6528/ad2ac6",
+      "authors": [
+        "Mohammad Monish",
+        "S S Major"
+      ],
+      "reported_institution": "Indian Institute of Technology Bombay"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "openalex",
+    "kind": "publication",
+    "external_id": "W4376272165",
+    "canonical_url": "https://openalex.org/works/W4376272165",
+    "locator": "Details: year, DOI, institution",
+    "payload": {
+      "title": "Topological transport properties of highly oriented Bi2Te3 thin film deposited by sputtering",
+      "publication_year": 2023,
+      "doi": "10.1088/1361-648x/acd50a",
+      "reported_institution": "Indian Institute of Technology Delhi"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "openalex",
+    "kind": "publication",
+    "external_id": "W7165688333",
+    "canonical_url": "https://openalex.org/works/W7165688333",
+    "locator": "Details: year, DOI, institution, funders",
+    "payload": {
+      "title": "Heterointerface-Induced Charge Transfer Kinetics in Sputtered MoTe2–MoS2 Nanocomposite for High-Performance Ambient NO2 Detection",
+      "publication_year": 2026,
+      "doi": "10.1021/acsami.6c05928",
+      "reported_institution": "Indian Institute of Technology Roorkee",
+      "reported_funders": [
+        "University Grants Commission",
+        "Defence Research and Development Organisation",
+        "Indian Institute of Technology Roorkee"
+      ]
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "iitb_public",
+    "kind": "equipment",
+    "external_id": "dual-chamber-sputter-system",
+    "canonical_url": "https://instruments.iitb.ac.in/dual-chamber-sputter-system",
+    "locator": "Make; Model; Date of Installation; Department; Facility Location",
+    "payload": {
+      "institution": "Indian Institute of Technology Bombay",
+      "equipment": "Dual chamber sputtering system",
+      "manufacturer": "AJA International",
+      "model": "Orion-8-CH1",
+      "installation_date": "2023-08-25",
+      "reported_status": "Working",
+      "department": "Electrical Engineering"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "iitb_public",
+    "kind": "laboratory",
+    "external_id": "short-circuit-lab-metal-sputtering",
+    "canonical_url": "https://www.ese.iitb.ac.in/facilities/metal-sputtering-unit",
+    "locator": "Make and Model; Location; Department",
+    "payload": {
+      "institution": "Indian Institute of Technology Bombay",
+      "laboratory": "Short circuit lab",
+      "department": "Energy Science and Engineering",
+      "equipment": "Metal sputtering unit",
+      "manufacturer": "Excel Instruments"
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  },
+  {
+    "source_id": "iitb_public",
+    "kind": "procurement",
+    "external_id": "6100003003",
+    "canonical_url": "https://www.iitb.ac.in/tenders/sputter-deposition-setup",
+    "locator": "Advertisement Number; Due date; Quantity; Division/Department",
+    "payload": {
+      "institution": "Indian Institute of Technology Bombay",
+      "reference": "6100003003",
+      "item": "Sputter deposition setup",
+      "quantity": 1,
+      "department": "MEMS",
+      "published_deadline": "2026-06-01",
+      "outcome": null,
+      "awardee": null,
+      "contract_price": null
+    },
+    "observed_on": "2026-11-28",
+    "method": "manual_public_metadata"
+  }
+]

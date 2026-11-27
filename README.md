@@ -52,3 +52,7 @@ With Compose running, from repository root:
 The GitHub Actions foundation workflow is intended to exercise these checks against real services. Do not claim successful execution without a recorded passing run. Dependency ranges are initial compatibility constraints; resolved lockfiles and image digests remain a review item before customer deployment.
 
 Do not expose this development stack publicly. Cloud hosting, Supabase Auth, protected tenant data, and production secrets are later checkpoints.
+
+## Checkpoint 2 — scientific source ingestion
+
+See [source feasibility](docs/source-feasibility.md) and [CP2 runbook](docs/checkpoints/02-data-infrastructure.md). Apply migration 002 to existing databases before importing. Run `docker compose exec backend python -m app.ingestion seed` to populate the local database with nine real source observations. `summary` reports counts by rights, kind, and method; `live --limit 5` attempts bounded OpenAlex API collection. Institutional review records are not approved commercial data. No customer functionality added.
