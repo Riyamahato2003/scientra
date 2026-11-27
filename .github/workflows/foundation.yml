@@ -40,6 +40,10 @@ jobs:
           curl --fail --silent --show-error http://localhost:8000/health/ready
           cd backend
           DATABASE_URL=postgresql://scientra:scientra_dev_only@localhost:5432/scientra pytest -m integration
+      - name: Seed and verify real scientific records
+        run: |
+          docker compose exec -T backend python -m app.ingestion seed
+          docker compose exec -T backend python -m app.ingestion summary
       - name: Browser smoke
         working-directory: frontend
         run: npm run test:e2e

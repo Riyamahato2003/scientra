@@ -1,0 +1,61 @@
+name: OpenAlex 87-institution coverage
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [main]
+    paths:
+      - "backend/app/ingestion/coverage.py"
+      - "backend/app/ingestion/institution_roster.json"
+      - ".github/workflows/openalex-coverage.yml"
+permissions:
+  contents: read
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start database and backend
+        run: docker compose up --build --wait --wait-timeout 180 db backend
+      - name: Ingest roster and verify stored records
+        run: |
+          docker compose exec -T backend python -m app.ingestion.coverage --limit 5 > coverage.json
+          python - <<'PY'
+          import json
+          from collections import Counter
+          data = json.load(open("coverage.json"))
+          print("Target institutions:", data["target_count"])
+          for category in ["IIT", "NIT", "IIIT", "IISER", "IISc"]:
+              rows = [r for r in data["coverage"] if r["category"] == category]
+              print(category, len(rows), dict(Counter(r["status"] for r in rows)),
+                    "publication observations", sum(r["publication_count"] for r in rows))
+          for row in data["coverage"]:
+              print(row["name"], row["status"], row["openalex_id"], row["publication_count"])
+          print("Database-verified records:", len(data["records"]))
+          print("Unique publication IDs:",
+                len({r["external_id"] for r in data["records"] if r["kind"] == "publication"}))
+          assert data["target_count"] == 87
+          PY
+      - name: Verify database aggregate
+        run: |
+          docker compose exec -T db psql -v ON_ERROR_STOP=1 -U scientra -d scientra -c "SELECT kind, count(*) FROM reusable_source_records GROUP BY kind;"
+      - name: Preserve source records and coverage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: openalex-coverage
+          path: coverage.json
+          if-no-files-found: error
+      - name: Require resolved institutional coverage
+        run: |
+          python - <<'PY'
+          import json
+          data = json.load(open("coverage.json"))
+          gaps = [r["name"] for r in data["coverage"]
+                  if r["status"] not in {"collected", "no_recent_works"}]
+          if gaps:
+              raise SystemExit("Unresolved or incomplete targets: " + ", ".join(gaps))
+          PY
+      - name: Cleanup
+        if: always()
+        run: docker compose down

@@ -1,6 +1,6 @@
 # Data design and access policy
 
-Only foundation schema is implemented at CP1: vector extension and schema version marker. Domain schemas below are planned; migrations belong to their checkpoints.
+CP1 created vector extension and schema marker; CP2 adds source registry and source snapshots (normalized minimal JSON payloads, URLs, locators, hashes, source timestamps and rights status). Remaining domain schemas below are planned; migrations belong to their checkpoints. No cross-source entity resolution yet.
 
 ## Logical schema
 
@@ -27,4 +27,4 @@ Use UUID PKs, foreign keys, explicit uniqueness on stable external IDs, indexed 
 
 ## Source policy
 
-OpenAlex is first candidate for API and licensing review. ROR/Crossref evaluated. Institutional pages, public funding announcements, I-STEM, ANRF, SERB-PRISM, GeM and CPPP are candidates, not approved bulk feeds. Verify actual access, coverage, source terms, reuse and redistribution; maintain registry and rate limits. No bypass of authentication/CAPTCHA, no restricted grant databases. Keep private manufacturer files isolated and authorized; no employer records by default. Store minimal excerpts and official URLs in accordance with rights. No source access has been tested in CP1.
+OpenAlex is first candidate for API and licensing review. ROR/Crossref evaluated. Institutional pages, public funding announcements, I-STEM, ANRF, SERB-PRISM, GeM and CPPP are candidates, not approved bulk feeds. Verify actual access, coverage, source terms, reuse and redistribution; maintain registry and rate limits. No bypass of authentication/CAPTCHA, no restricted grant databases. Keep private manufacturer files isolated and authorized; no employer records by default. Store minimal excerpts and official URLs in accordance with rights. CP2 access review: see [source feasibility](source-feasibility.md). No CAPTCHA bypass; only OpenAlex has an automated adapter.
